@@ -1,0 +1,5 @@
+{
+  "host": "127.0.0.1",
+  "port": 6099,
+  "token": "在此填入你自定义的 WebUI Token（建议 32 位以上随机字符串），需与下方 openauth 插件配置、农场后端的 NAPCAT_TOKEN 保持一致"
+}

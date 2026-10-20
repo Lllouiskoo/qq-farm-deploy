@@ -1,0 +1,18 @@
+# Secrets - NEVER commit these
+napcat-token.txt
+*.token
+napcat-shell/config/webui.json
+napcat-shell/config/plugins/
+
+# Local runtime data
+*.log
+data/
+
+# Dependencies and builds
+node_modules/
+web/dist/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
