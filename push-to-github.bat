@@ -6,7 +6,7 @@ rem   1. Create an EMPTY repo on github.com (no README, no .gitignore)
 rem   2. Edit REPO_URL below to your repo address
 rem   3. Double-click this script (git will pop up login if needed)
 rem ============================================================
-set "REPO_URL=https://github.com/YOUR_USERNAME/qq-farm-deploy.git"
+set "REPO_URL=https://github.com/Lllouiskoo/qq-farm-deploy.git"
 
 cd /d "%~dp0" || exit /b 1
 
